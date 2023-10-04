@@ -1,6 +1,6 @@
 # MozCoin Textify (Java)
 
-A **MozCoin Textify** é uma alternativa em Java para a versão inicial da biblioteca em JavaScript, que permite converter valores numéricos em palavras no mesmo contexto da moeda moçambicana. Esta biblioteca útil para gerar recibos, facturas ou qualquer aplicação que necessita de uma representação por extenso dos valores numericos.  
+A **MozCoin Textify** é uma alternativa em Java para a versão inicial da biblioteca em JavaScript, que permite converter valores numéricos em palavras no mesmo contexto da moeda moçambicana. Esta biblioteca é útil para gerar recibos, facturas ou qualquer aplicação que necessita de uma representação por extenso dos valores numericos.  
 
 Diferentemente da versão JavaScript, a versão Java não depende de um arquivo de configuração `config.json`. Em vez disso, foi incluída uma classe `Config.java` na qual as configurações são armazenadas no momento da instanciação da classe `MozCoinTextify`. Isso irá ornar mais simples o processo de uso da biblioteca em Java, sem a necessidade de um arquivo de configuração separado.
 
