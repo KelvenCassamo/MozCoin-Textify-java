@@ -76,7 +76,7 @@ Podemos manipular da seguinte forma:
 ````java
 mozCoinTextify.config.setAutoDot(true);
 mozCoinTextify.config.setDefaultLanguage(MozCoinTextify.PORTUGUESE);
-mozCoinTextify.applyConfig(null);
+
 ````
 Também será válido:
 
