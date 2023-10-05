@@ -149,5 +149,5 @@ A `MozCoin Textify` está em constante desenvolvimento para melhorar a precisão
 ## Licença
 Este projeto está licenciado sob a Licença MIT - pode consultar o arquivo [LICENSE.md](https://github.com/KelvenCassamo/MozCoin-Textify-java/blob/main/LICENSE) para detalhes.
 
-Pode sentir-sw à vontade para contribuir, reportar problemas ou dar sugestões para melhorar o projeto!
+Pode sentir-sw à vontade para contribuir, reportar problemas ou dar sugestões para melhorar o projecto!
 
